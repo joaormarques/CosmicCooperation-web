@@ -1,0 +1,19 @@
+Purpose of the Web App
+Game Session Management:
+Creation and Joining of Game Sessions: The web app enables one player to create a game session and others to join it. This is essential for organizing multiplayer gameplay.
+Player Registration and Management:
+Player Profiles: Players can register, create profiles, and manage their information.
+Module Registration: Players register the modules they will use in the game (like specific control panels).
+Real-Time Interaction and Gameplay:
+Displaying Instructions: During gameplay, the web app provides real-time instructions to players on which controls to adjust.
+Game Progress Tracking: The app tracks and displays game progress, timers for tasks, and the number of lives remaining.
+Enhanced User Interface:
+Provides a visually engaging and interactive interface to enhance the gameplay experience.
+Communication Hub:
+Facilitates communication among players, which is vital for coordination in a cooperative game.
+How Players Will Access It
+Via Web Browsers on Mobile Devices:
+The app is designed to be accessible through a web browser on players' smartphones or tablets.
+This approach ensures compatibility across various devices without the need for a dedicated mobile app.
+Direct Link or Game Code:
+Players can join a game by navigating to a specific URL or entering a game code provided by the game host.
